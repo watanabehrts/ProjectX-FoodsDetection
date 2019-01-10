@@ -11,6 +11,6 @@
 参考にさせていただいたサイト　[https://www.y-shinno.com/vgg16-finetuning-uecfood100/](https://www.y-shinno.com/vgg16-finetuning-uecfood100/)  
 最初の自身のいる場所をcontent上にしたの後順に実行していけば動きます(クラス数を変更したりする場合書き換えなければいけない箇所あり)。  
 学習はcontent上で実行するようにしてください。  
-追加したいクラスがない場合は「UECFOOD100以外の分類したいクラスの追加」の部分は飛ばしてください
+追加したいクラスがない場合は「UECFOOD100以外の分類したいクラスの追加」の部分は飛ばしてください。  
 重みとcsvファイル、精度確認の為だけの精度確認.ipybファイルがグーグルドライブにあります。  
 グーグルドライブのurlは[こちら](https://drive.google.com/open?id=1F8hbp5OGM5syGDQLpFPxbP1n9yFz804K)
